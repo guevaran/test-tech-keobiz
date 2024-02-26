@@ -44,6 +44,9 @@ $RECYCLE.BIN/
 **/.venv/
 **/venv/
 
+# VSCode
+.vscode
+
 # Files for test tech Europcar
 force-app/main/default/triggers/AccountTrigger.trigger
 force-app/main/default/triggers/AccountTrigger.trigger-meta.xml
